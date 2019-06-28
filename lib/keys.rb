@@ -16,7 +16,7 @@ def get_the_keys(groceries)
     grains: ["rice", "pasta"]
   }
   
-  groceries.values.flatten
+  groceries.values.flatten.min
 end
 
 
