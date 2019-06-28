@@ -17,3 +17,4 @@ def get_the_keys(groceries)
   }
 end
 
+groceries.keys
